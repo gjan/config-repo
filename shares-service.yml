@@ -1,2 +1,3 @@
 pantoffel:
   greeting: "Welcome to the shares catalog from the config server"
+  test: "Testmessage"
